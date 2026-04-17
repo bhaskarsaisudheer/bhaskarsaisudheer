@@ -1,78 +1,109 @@
-# Hi 👋, I'm Bhaskar Sai Sudheer
+# 🌟 Hi 👋, I'm Bhaskar Sai Sudheer
 
-🎓 B.Tech CSE (AI/ML) Student  
-📍 Raghu Engineering College (2022–2026)  
-💡 Passionate about AI, Full Stack Development & Automation  
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;Building+Smart+Automation+Systems;Passionate+about+AI+%26+Innovation" />
 
 ---
 
 ## 🚀 About Me
-- 🔭 Working on **AI Voice Assistant & Browser Automation**
-- 🤖 Interested in **Artificial Intelligence, NLP, Deep Learning**
-- 💻 Building real-world projects using **React + Spring Boot**
-- 📊 Experience in **Data Analysis & Machine Learning**
-- 🌱 Currently improving **System Design & AI Integration**
+
+🎓 B.Tech CSE (AI/ML) Student
+💡 Passionate about **Artificial Intelligence, Automation & Full Stack Development**
+🔭 Currently building **AI Voice Assistant & Smart Detection Systems**
+🌱 Learning **Advanced AI + System Design**
 
 ---
 
-## 🧠 Skills
+## 🧠 Tech Stack
 
-**Languages:**  
-Python | Java | C  
+### 💻 Languages
 
-**AI/ML:**  
-NumPy | Pandas | Scikit-learn | PyTorch | OpenCV | NLP  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-**Web Development:**  
-HTML | CSS | JavaScript | React.js | Node.js | Flask  
+---
 
-**Databases:**  
-SQL | MongoDB  
+### 🤖 AI / ML
 
-**Tools:**  
-Git | VS Code | Jupyter | Google Colab  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn)
+
+---
+
+### 🌐 Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+
+---
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 
 ---
 
 ## 🚀 Projects
 
 ### 🔊 Live Event Detection System
-- Built real-time sound classification using CNN (UrbanSound8K)
-- Streamlit app for live predictions & visualization
-- Risk detection (gunshot, siren) with alert system
-- Integrated Generative AI (Gemini API)
+
+✔ CNN-based sound classification (UrbanSound8K)
+✔ Real-time predictions using Streamlit
+✔ Risk detection + alert system
+✔ Integrated Generative AI (Gemini)
 
 ---
 
 ### 🤖 AI Voice Assistant – Browser Automation
-- Full-stack voice assistant (React + Spring Boot)
-- Converts speech → executes browser actions
-- NLP-based command understanding (GPT/Ollama)
-- Selenium automation for real-time tasks
+
+✔ Voice → Command → Action system
+✔ React + Spring Boot full-stack
+✔ NLP-based intelligent execution
+✔ Selenium automation (open YouTube, search, etc.)
 
 ---
 
 ## 💼 Experience
-**Data Science Intern – The Developers Arena**
-- Worked on data cleaning, analysis using Pandas
-- Built visualization dashboards using Matplotlib
-- End-to-end data analysis workflow
+
+📊 **Data Science Intern – The Developers Arena**
+
+* Data cleaning & analysis using Pandas
+* Visualization using Matplotlib
+* End-to-end analytics workflow
 
 ---
 
 ## 🏆 Achievements
-- 🥈 Smart Coder (Smart Interviews)
-- 🎓 NPTEL Java (IIT Kharagpur)
-- 💻 Full Stack Bootcamp – GeeksforGeeks
-- 🥇 HackerRank Gold Badge (Java & Python)
+
+🏅 Smart Coder (Silver)
+🎓 NPTEL Java – IIT Kharagpur
+💻 Full Stack Bootcamp – GeeksforGeeks
+🥇 HackerRank Gold Badge
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: saisudheer5020@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/tangeti-bhaskar-sai-sudheer  
-- 💻 GitHub: https://github.com/bhaskarsaisudheer  
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bhaskarsaisudheer\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarsaisudheer\&layout=compact\&theme=tokyonight)
 
 ---
 
-⭐ *Always building. Always learning.*
+## 📫 Connect with Me
+
+📧 Email: [saisudheer5020@gmail.com](mailto:saisudheer5020@gmail.com)
+🔗 LinkedIn: https://linkedin.com/in/tangeti-bhaskar-sai-sudheer
+💻 GitHub: https://github.com/bhaskarsaisudheer
+
+---
+
+✨ *Building the future with AI + Code*
