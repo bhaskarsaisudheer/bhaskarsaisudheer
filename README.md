@@ -1,15 +1,14 @@
 # 🌟 Hi 👋, I'm Bhaskar Sai Sudheer
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;Building+Smart+Automation+Systems;Passionate+about+AI+%26+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;Passionate+about+AI+%26+Automation;Exploring+Scalable+Systems" />
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE (AI/ML) Student
-💡 Passionate about **Artificial Intelligence, Automation & Full Stack Development**
-🔭 Currently building **AI Voice Assistant & Smart Detection Systems**
-🌱 Learning **Advanced AI + System Design**
+**B.Tech CSE (AI/ML) Student | Passionate about Artificial Intelligence, Automation & Full Stack Development | Exploring Advanced AI & System Design**
+
+💡 Strong interest in solving real-world problems using AI-driven and scalable software solutions
 
 ---
 
@@ -58,7 +57,7 @@
 ✔ CNN-based sound classification (UrbanSound8K)
 ✔ Real-time predictions using Streamlit
 ✔ Risk detection + alert system
-✔ Integrated Generative AI (Gemini)
+✔ Integrated Generative AI
 
 ---
 
@@ -67,7 +66,7 @@
 ✔ Voice → Command → Action system
 ✔ React + Spring Boot full-stack
 ✔ NLP-based intelligent execution
-✔ Selenium automation (open YouTube, search, etc.)
+✔ Selenium automation
 
 ---
 
@@ -106,4 +105,4 @@
 
 ---
 
-✨ *Building the future with AI + Code*
+✨ *Building smart solutions with AI & code*
