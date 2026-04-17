@@ -71,13 +71,17 @@
 
 ---
 
-## 💼 Experience
+## 💼 Experience  
 
-📊 **Data Science Intern – The Developers Arena**
+📊 **Data Science & Analytics Intern – The Developers Arena**  
+- Data cleaning & analysis using Pandas  
+- Visualization using Matplotlib  
+- End-to-end analytics workflow  
 
-* Data cleaning & analysis using Pandas
-* Visualization using Matplotlib
-* End-to-end analytics workflow
+🤖 **Machine Learning & AI Intern – Skill Dzire**  
+- Worked on core Machine Learning and AI concepts with hands-on implementation  
+- Built and trained models using Python and libraries like NumPy, Pandas, Scikit-learn  
+- Gained practical exposure to data preprocessing, model evaluation, and real-world problem solving  
 
 ---
 
